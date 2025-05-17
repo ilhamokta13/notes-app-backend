@@ -1,4 +1,2 @@
-Noteskeypair.pem
-notes-server.ppk
-notes-api-webserver.ppk
 node_modules
+notes-api-server.pem
